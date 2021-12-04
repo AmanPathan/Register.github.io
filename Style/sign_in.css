@@ -326,6 +326,11 @@ form {
 
 }
 
+@media (max-width:320px){
+  body{
+    font-family: 'Oleo Script', cursive;
+  }
+}
 
   
        
